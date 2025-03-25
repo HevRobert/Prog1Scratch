@@ -1,5 +1,5 @@
 # Prog1Scratch
 
-![alt text](Screenshot_20250321_111215.png)
+![alt text](Screenshot_20250325_201407.png)
 
-Ez a program egy Tux és Windows sprite közötti interakciót, illetve tömb beolvasását és fordított kiírását, illetve a tömb parításának a vizsgálatát demonstrálja.
+Ez a scratch projekt az Arch illetve Manjaro disztribúciók közötti érvelést dolgozza fel egy játékszerű módon.
