@@ -7,5 +7,3 @@ Ez a scratch projekt az Arch illetve Manjaro disztribúciók közötti érvelés
 
 https://scratch.mit.edu/projects/1152588993
 
-
-<iframe src="https://scratch.mit.edu/projects/1152588993/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
